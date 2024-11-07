@@ -6,7 +6,7 @@ import ProductsFeatured from "../../components/products-featured";
 
 import Content from "../../components/product-single/content";
 import Description from "../../components/product-single/description";
-import Reviews from "../../components/product-single/reviews";
+
 import { useRouter } from "next/router";
 import { getVariants } from "APIS/product";
 import Gallery from './../../components/product-single/gallery/index';
